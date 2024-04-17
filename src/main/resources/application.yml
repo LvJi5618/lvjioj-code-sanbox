@@ -1,0 +1,8 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8122
+# 数据库密码
+spring:
+  datasource:
+    password: 123456
+
